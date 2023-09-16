@@ -1,5 +1,3 @@
-import Image from 'next/image'
-
 export default function Home() {
   return (
     <main>
@@ -8,7 +6,7 @@ export default function Home() {
           Coming Soon
         </h1>
         <p class="text-white text-lg mb-8">
-          We're working hard to bring you something amazing. Stay tuned!
+          We are working hard to bring you something amazing. Stay tuned!
         </p>
       </div>
     </main>
